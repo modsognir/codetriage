@@ -22,7 +22,6 @@ gem 'wicked'
 gem 'rails_autolink'
 gem 'bluecloth'
 
-
 gem 'rrrretry'
 
 group :development do
